@@ -4,6 +4,7 @@ handwritten digits that is commonly used for training various image processing s
 database is also widely used for training and testing in the field of machine learning and computer
 vision. The black and white images from NIST were normalized to fit into a 28x28 pixel bounding
 box and anti-aliased, which introduced grayscale levels.
+
 Here, we are taking this as the primary input to our program of (CNN) conventional neural
 network (CNN). The following implementations are done to our network.
 
