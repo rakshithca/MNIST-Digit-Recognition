@@ -19,3 +19,6 @@ performance of a fully specified classifier.
 • Computing cross entropy, changing the drop rate
 
 • Optimizing using gradients to a specific learning rate
+
+**Run** Using Google Colab
+
